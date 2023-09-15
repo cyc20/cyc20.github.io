@@ -16,8 +16,8 @@
 .boxitem-line{
   padding: 30px 40px;
 }
-.boxitem-line h6{
-}
+/* .boxitem-line h6{
+} */
 .boxitem-line h6>span{
   float: right;
 }
